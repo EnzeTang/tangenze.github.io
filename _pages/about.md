@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 I'm a third-year PhD student at the Department of Psychology and Behavioral Sciences, Zhejiang University (Supervisor: Prof. Hui Chen). Currently, I'm visiting the PSYNET LAB at Brigham and Women's Hospital, Harvard Medical School (Supervisor: Prof. Shan Siddiqi).
-[My CV](..'assets/CV.pdf)
-[Email](mailto:tangenze@zju.edu.cn) / [ResearchGate](https://www.researchgate.net/profile/Enze-Tang-2) / [Orcid](https://orcid.org/0000-0003-3768-9625)
+
+[My CV](..'assets/CV.pdf) / 
+[Email](mailto:tangenze@zju.edu.cn) / [ResearchGate](https://www.researchgate.net/profile/Enze-Tang-2) / [ORCID](https://orcid.org/0000-0003-3768-9625)
 
 Recent research interests include:
 (1) Psychiatry branch: non-invasive brain stimulation (e.g., TBS, TI, cognitive training etc.); circuit-based therapeutics; 
